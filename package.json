@@ -1,0 +1,22 @@
+{
+  "name": "contact",
+  "version": "1.0.0",
+  "description": "improving contact form from intial stage to advance",
+  "main": "contact",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Contact form"
+  },
+  "keywords": [
+    "Php",
+    "contact",
+    "form",
+    "html",
+    "css"
+  ],
+  "author": "Topollo Raliqala",
+  "license": "ISC"
+}
